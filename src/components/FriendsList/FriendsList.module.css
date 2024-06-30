@@ -1,0 +1,26 @@
+.friendsList{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.friendCard{
+    padding: 10px;
+    width: 60px;
+    align-items: center;
+    text-align: center;
+    border: 2px solid #b1b1b1;
+    border-radius: 10%;
+}
+
+.online{
+    color: #41af3b;
+}
+
+.offline{
+    color: #e24c4c;
+}

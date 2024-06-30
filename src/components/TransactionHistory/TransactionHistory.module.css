@@ -1,0 +1,30 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+  }
+  
+  .thead {
+    background-color: #313435;
+    color: #ffffff;
+  }
+  
+  .th, .td {
+    padding: 12px 15px;
+    border: 2px solid #808080;
+  }
+
+  .td {
+    line-height: 1.5;
+  }
+
+  .tr{
+    width: 100px;
+    text-align: center;
+  }
+  
+  .th {
+    font-weight: bold;
+  }
+  
